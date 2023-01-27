@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Hello 👋, I'm Vivek Kumar</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=0002D3&center=true&vCenter=true&multiline=true&width=435&lines=Flutter+Developer;Technical+Project+Lead;Lead+Mobile+Developer)](https://git.io/typing-svg)
+
 
 <!--
 **VK027/VK027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -17,5 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VK027&label=Visitors%20Count&color=0e75b6&style=flat" alt="vk027" /> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VK027&show_icons=true&locale=en&layout=compact" alt="VK027" /></p>
+
+<!--
 ### Visitors Count
-<img align="left" src = "https://profile-counter.glitch.me/VK027/count.svg" alt ="Loading">
+![Visitor Count] <img align="left" src = "https://profile-counter.glitch.me/VK027/count.svg" alt ="Loading">
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VK027&show_icons=true&locale=en" alt="VK027" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VK027&" alt="VK027" /></p>
+-->

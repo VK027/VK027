@@ -6,7 +6,7 @@ Lead Mobile Developer | Flutter Expert | Technical Project Lead
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Flutter+Developer;Technical+Project+Lead;Android+%26+iOS+Developer;8%2B+Years+of+Experience;Building+Scalable+Mobile+Applications"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Flutter+Developer;Technical+Project+Lead;Android+%26+iOS+Development"
     alt="Typing SVG"
   />
 </p>
@@ -54,15 +54,21 @@ Lead Mobile Developer | Flutter Expert | Technical Project Lead
 
 <p align="center">
 
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=VK027&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-/>
+<a href="https://github.com/VK027">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=VK027&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
+</a>
 
-<img
-  height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VK027&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-/>
+<a href="https://github.com/VK027">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VK027&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</a>
 
 </p>
 
@@ -84,6 +90,7 @@ Lead Mobile Developer | Flutter Expert | Technical Project Lead
 <p align="center">
   <img
     src="https://github-profile-trophy.vercel.app/?username=VK027&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
   />
 </p>
 
@@ -94,6 +101,7 @@ Lead Mobile Developer | Flutter Expert | Technical Project Lead
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=VK027&theme=tokyo-night&hide_border=true"
+    alt="Contribution Graph"
   />
 </p>
 

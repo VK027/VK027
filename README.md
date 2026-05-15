@@ -1,66 +1,144 @@
-<h1>Hello 👋, I'm Vivek Kumar</h1>
+<h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 
-<h3>
-Flutter Developer | Technical Project Lead | Lead Mobile Developer
+<h3 align="center">
+Lead Mobile Developer | Flutter Expert | Technical Project Lead
 </h3>
 
-<p>
+<p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0002D3&vCenter=true&width=700&lines=Flutter+Developer;Technical+Project+Lead;Lead+Mobile+Developer"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Flutter+Developer;Android+%26+iOS+Developer;Technical+Project+Lead;8%2B+Years+of+Experience;Building+Scalable+Mobile+Applications"
     alt="Typing SVG"
   />
 </p>
 
-<p>
-  <img
-    src="https://komarev.com/ghpvc/?username=VK027&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
-</p>
-
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🔭 Working as a Lead Mobile Developer
-- 🌱 Expertise in Flutter, Android & iOS
-- 💡 Passionate about scalable mobile architectures
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🔭 Currently working as **Lead Mobile Developer**
+- 🌱 Specialized in **Flutter, Android, iOS**
+- 💡 Passionate about **Clean Architecture & Scalable Apps**
 - 👨‍💻 8+ Years of Mobile App Development Experience
-- 📫 Reach me on LinkedIn
+- 🚀 Experienced in leading mobile teams and enterprise apps
+- 📱 Skilled in Flutter, Kotlin, Java, Firebase & REST APIs
+- ⚡ Strong focus on performance optimization & UI/UX
+- 📫 Reach me on **LinkedIn**
 
 ---
 
-### 🛠️ Tech Stack
+## 🌐 Connect With Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio,firebase,git,github,vscode" />
+<p align="left">
+<a href="https://linkedin.com/in/connectvivek27" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" />
+</a>
+
+<a href="mailto:vickyvivek2727@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40" width="40" />
+</a>
+
+<a href="https://github.com/VK027">
+<img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" />
+</a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=VK027&show_icons=true&theme=tokyonight&cache_seconds=1800"
-    height="180"
-  />
+### 📱 Mobile Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio" />
 </p>
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VK027&layout=compact&theme=tokyonight&cache_seconds=1800"
-    height="180"
-  />
+### ☁️ Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=firebase,mysql,nodejs" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
-<p>
-  <img
-    src="https://streak-stats.demolab.com?user=VK027&theme=tokyonight"
-    height="180"
-  />
+<p align="center">
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=VK027&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+  height="180"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VK027&layout=compact&theme=tokyonight&hide_border=true" 
+  height="180"
+/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img 
+  src="https://streak-stats.demolab.com?user=VK027&theme=tokyonight&hide_border=true" 
+  height="200"
+/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=VK027&theme=tokyonight&no-frame=true&row=1&column=6" 
+/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=VK027&theme=tokyo-night&hide_border=true" 
+/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img 
+  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
+  alt="snake animation"
+/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+<img
+  src="https://komarev.com/ghpvc/?username=VK027&label=Profile%20Views&color=0e75b6&style=flat"
+  alt="Profile Views"
+/>
+</p>
+
+---
+
+## 💬 Quote
+
+<p align="center">
+<i>"First, solve the problem. Then, write the code."</i>
 </p>

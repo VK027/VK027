@@ -126,11 +126,11 @@ Lead Mobile Developer | Flutter Expert | Technical Project Lead
   <img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
+<a href="https://www.linkedin.com/in/connectvivek27/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:vickyvivek2727@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 

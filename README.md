@@ -6,7 +6,7 @@ Lead Mobile Developer | Flutter Expert | Technical Project Lead
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Flutter+Developer;Android+%26+iOS+Developer;Technical+Project+Lead;8%2B+Years+of+Experience;Building+Scalable+Mobile+Applications"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Flutter+Developer;Technical+Project+Lead;Android+%26+iOS+Developer;8%2B+Years+of+Experience;Building+Scalable+Mobile+Applications"
     alt="Typing SVG"
   />
 </p>
@@ -18,52 +18,34 @@ Lead Mobile Developer | Flutter Expert | Technical Project Lead
 <img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 Currently working as **Lead Mobile Developer**
-- 🌱 Specialized in **Flutter, Android, iOS**
-- 💡 Passionate about **Clean Architecture & Scalable Apps**
-- 👨‍💻 8+ Years of Mobile App Development Experience
-- 🚀 Experienced in leading mobile teams and enterprise apps
-- 📱 Skilled in Flutter, Kotlin, Java, Firebase & REST APIs
-- ⚡ Strong focus on performance optimization & UI/UX
-- 📫 Reach me on **LinkedIn**
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/connectvivek27" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" width="40" />
-</a>
-
-<a href="mailto:vickyvivek2727@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="40" width="40" />
-</a>
-
-<a href="https://github.com/VK027">
-<img align="center" src="https://skillicons.dev/icons?i=github" alt="github" height="40" width="40" />
-</a>
-</p>
+- 📱 8+ years of experience in **Flutter, Android & iOS Development**
+- 💡 Expertise in scalable mobile architectures and clean coding practices
+- 👨‍💻 Experienced in leading cross-functional mobile teams
+- 🚀 Delivered enterprise-grade mobile applications
+- ⚡ Strong focus on performance optimization and UI/UX improvements
+- 🔥 Skilled in Flutter, Dart, Kotlin, Java, Firebase & REST APIs
+- 📚 Passionate about mentoring developers and improving engineering practices
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile Development
+### 📱 Mobile Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio" />
 </p>
 
 ### ☁️ Backend & Database
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=firebase,mysql,nodejs" />
+  <img src="https://skillicons.dev/icons?i=firebase,nodejs,mysql" />
 </p>
 
 ### 🧰 Tools & Platforms
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
@@ -71,15 +53,17 @@ Lead Mobile Developer | Flutter Expert | Technical Project Lead
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=VK027&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-  height="180"
+
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=VK027&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
 />
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VK027&layout=compact&theme=tokyonight&hide_border=true" 
-  height="180"
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VK027&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
 />
+
 </p>
 
 ---
@@ -87,10 +71,10 @@ Lead Mobile Developer | Flutter Expert | Technical Project Lead
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img 
-  src="https://streak-stats.demolab.com?user=VK027&theme=tokyonight&hide_border=true" 
-  height="200"
-/>
+  <img
+    src="https://streak-stats.demolab.com?user=VK027&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
@@ -98,9 +82,9 @@ Lead Mobile Developer | Flutter Expert | Technical Project Lead
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=VK027&theme=tokyonight&no-frame=true&row=1&column=6" 
-/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=VK027&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"
+  />
 </p>
 
 ---
@@ -108,20 +92,9 @@ Lead Mobile Developer | Flutter Expert | Technical Project Lead
 ## 📈 Contribution Graph
 
 <p align="center">
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=VK027&theme=tokyo-night&hide_border=true" 
-/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img 
-  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
-  alt="snake animation"
-/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=VK027&theme=tokyo-night&hide_border=true"
+  />
 </p>
 
 ---
@@ -129,16 +102,28 @@ Lead Mobile Developer | Flutter Expert | Technical Project Lead
 ## 👀 Profile Views
 
 <p align="left">
-<img
-  src="https://komarev.com/ghpvc/?username=VK027&label=Profile%20Views&color=0e75b6&style=flat"
-  alt="Profile Views"
-/>
+  <img
+    src="https://komarev.com/ghpvc/?username=VK027&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 ---
 
-## 💬 Quote
+## 🌐 Connect With Me
 
-<p align="center">
-<i>"First, solve the problem. Then, write the code."</i>
+<p align="left">
+
+<a href="https://github.com/VK027" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+
 </p>
